@@ -16,7 +16,7 @@ chromadb==0.4.22
 sentence-transformers==2.3.1
 
 # Data Processing
-pandas==2.2.0
+pandas
 numpy==1.26.3
 pydantic==2.5.3
 pydantic-settings==2.1.0
