@@ -41,7 +41,7 @@ loguru==0.7.2
 
 # Constraint Solving
 python-constraint==1.4.0
-ortools==9.8.3296
+ortools
 
 # Testing
 pytest==7.4.4
